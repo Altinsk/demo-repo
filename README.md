@@ -6,3 +6,6 @@ line 5
 
 ## Subheader
 watching a film 
+
+## local development 
+1. open index.html in your browser.
